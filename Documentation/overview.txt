@@ -1,0 +1,23 @@
+Opensource PHP Project Management System
+
+Overview (Features-List)
+
+* Multi-User
+* Multi-Project
+* Organisational-Structure (each person - User - has a boss, boss has view-permission 
+                            for all of his guys)
+* Time-Management (including time rapports)
+* Time-Rapports can be marked as "billed"
+* Structure: Project -> Milestone -> Task
+* Planing-Feature (when the Task can start earliest)
+* Task dependencies
+* Task-Parameter: Needed Time, % done, Responsible, Coworker
+* Gant-Diagram
+
+* Project-Permissions: Owner, Read, Member
+* Mailing-Feature
+* Comment-Feature on tasks (inform members after creating comments)
+
+* Task: Clearing-Functionality (how many time is rapported on that task and 
+                                how many time was planed)
+ 
