@@ -1,0 +1,18 @@
+After downloading this Project you need to get Symfony running.
+This is done by composer.
+
+So please download composer from http://getcomposer.org/
+after that, change into the project folder and do the following (assuming composer.phar 
+is in the current path:
+
+php composer.phar update
+
+This should download and install all neccessary Symfony-Packages ("Bundles")
+After that, you should be able to start hacking.
+
+(Besides: if you have installed the symfony-plugin for Eclipse
+from http://symfony.dubture.com/, right-click on the project and 
+
+Composer --> Update dependencies 
+
+should also work)
